@@ -1,5 +1,7 @@
 **Multi-Objective Optimization for EV Charging Station Planning
+
 **Project Overview
+
 This repository contains the implementation of a multi-objective optimization model for electric vehicle (EV) charging station planning. The model integrates drivers' preferences and fairness considerations to enhance the efficiency and accessibility of EV charging networks. It includes a heuristic approach combining machine learning for demand clustering and NSGA-II with a custom selection operator for multi-objective optimization.
 
 Key Features
