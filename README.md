@@ -1,6 +1,6 @@
 **Multi-Objective Optimization for EV Charging Station Planning
 
-**📌 Note: This is not the final version of the code. A more refined version is under development and can be provided upon request.
+📌 Note: This is not the final version of the code. A more refined version is under development and can be provided upon request.
 
 **Project Overview
 
